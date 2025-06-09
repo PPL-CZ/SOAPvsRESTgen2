@@ -8,7 +8,7 @@ import {
   Code,
   Play,
   RefreshCw,
-  Settings,
+  //Settings,
   Zap,
   Terminal,
 } from 'lucide-react';
